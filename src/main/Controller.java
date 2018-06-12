@@ -26,7 +26,7 @@ public class Controller {
 	private static void initVariables() {
 		
 		airplanes = new ArrayList<Airplane>();
-		graph = new Graph();
+		//graph = new Graph();
 		priorityAirplanes = new ArrayList<Airplane>();
 		flightPlans = new ArrayList<FlightPlan>();
 		randomUtil = new RandomUtil();
